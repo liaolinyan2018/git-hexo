@@ -1,2 +1,2 @@
-var string = hello world
-alert(string)
+var string = hello world;
+alert(string);
